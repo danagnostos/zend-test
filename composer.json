@@ -14,7 +14,7 @@
     },
     "require": {
         "php": "^7.0",
-        "phpunit/PHPUnit": "^6.1",
+        "phpunit/PHPUnit": "dev-master",
         "zendframework/zend-console": "^2.6",
         "zendframework/zend-dom": "^2.6",
         "zendframework/zend-eventmanager": "^2.6.2 || ^3.0",
